@@ -1,0 +1,108 @@
+[
+
+  {
+    "title": "MoinMoin",
+    "description": "\n\t\t\t\t\tMoinMoin\n\t\t\t\t\t\t\n\t\t\t\t\tDie Bohnen wünschen einen guten Morgen aus dem #moinmoin-Studio in Hamburg. Was steht in der Zeitung? Wie schmeckt der Kaffee? Habt ihr gut geschlafen? Diese und andere lebenswichtige Fragen beantworten euch die immer gut gelaunten Moderatoren von Rocket Beans TV.\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/moinmoin.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tMontags bis Freitags | 10.30 Uhr | LIVE | #moinmoin\n\t\t\t\t"
+    }
+  },
+  {
+    "title": "Almost Daily",
+    "description": "\n\t\t\t\tAlmost Daily\n\t\t\t\t\t\n\t\t\t\tDas Talkformat mit dem goldenen Tisch! Willkommen bei Almost Daily. Hier werden Themen ohne Tabus besprochen und Unterhaltsam aufbereitet. Eine Punchline jagt die nächste und wenn es um flotte Sprüche geht, dann macht unseren Jungs niemand etwas vor. Coole Konzepte und interessante Gäste. Die #1 Video-Talkrunde auf Twitch.\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/almostdaily.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tDienstags und Samstags | 20.15 Uhr | #almostdaily\n\t\t\t\t"
+    }
+  },
+  {
+    "title": "Schröcks Fernsehgarten",
+    "description": "\n\t\t\t\tSchröcks Fernsehgarten\n\t\t\t\t\t\n\t\t\t\tWillkommen in Schröcks Fernsehgarten, dem täglich erscheinenden TV- und Filmformat mit Daniel Schröckert. Hier bekommt ihr Tipps und Infos zu Filmen, die ihr euch nicht entgehen lassen solltet. Selbst wenn euer Fernseher schon längst aus dem Fenster geflogen ist, hier findet ihr sicher noch die ein oder andere Perle für das Heimkino.\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/schroecksfernsehgarten.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tMontags bis Freitags | 7.00 Uhr | #fernsehgarten\n\t\t\t\t"
+    }
+  },
+  {
+    "title": "Kino+",
+    "description": "\n\t\t\t\tKino+\n\t\t\t\t\t\n\t\t\t\tDonnerstag ist Kino-Tag! Das bedeutet es ist wieder Zeit für Kino+. Hier bekommt ihr aktuelle Filmstarts, Trailer und News. Und wenn ihr Glück habt, haben wir auch was zu verlosen! Also holt euch euer Popcorn, schnappt euch ein Kaltgetränk eurer Wahl und lehnt euch zurück. Die Vorstellung geht gleich los.\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/kinoplus.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tDonnerstags | 20.15 Uhr | #kinoplus\n\t\t\t\t"
+    }
+  },
+  {
+    "title": "Community Beef",
+    "description": "\n\t\t\t\tCommunity Beef\n\t\t\t\t\t\n\t\t\t\tWir fordern die Community heraus. Egal in welchem Spiel, egal in welchem Genre. Hier habt ihr die Möglichkeit zu zeigen, was in euch steckt! Tretet gegen die Redaktion von Rocket Beans TV an und greift nach Glanz und Gloria. Aber seid vorsichtig, hier wird niemand mit Samthandschuhen angefasst.\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/communitybeef.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tMontags | 20.15 Uhr | LIVE | #communitybeef\n\t\t\t\t"
+    }
+  },
+  {
+    "title": "Wir müssen reden",
+    "description": "\n\t\t\t\tWir müssen reden\n\t\t\t\t\t\n\t\t\t\tGunnar hat ein Telefon. Ruft ihn an und lasst euch von ihm dazwischenreden. Ihr habt spannende Hobbies oder Probleme mit dem Internet? Dann seid ihr hier an der richtigen Adresse. Ihr wollt unbedingt berühmt werden und habt kein Problem mit waschechter Gunnar-Philosophie? Dann greift zum Hörer und mit etwas Glück seid ihr der nächste Anrufer bei \"Wir müssen reden\".\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/wirmuessenreden.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tMontags | 22.30 Uhr | LIVE | #wmr\n\t\t\t\t"
+    }
+  },
+  {
+    "title": "Bohn Jour",
+    "description": "\n\t\t\t\tBohn Jour\n\t\t\t\t\t\n\t\t\t\tDieses sympathische Plausch und Show-Format ist Dreh- und Angelpunkt der Rocketbeanschen Woche. Unsere Bohnen manövrieren mit euch durch News, Gewinnspiele und allerhand Themen der Internetwelt, die sonst sicher zu kurz gekommen wären. Dazu gibt’s eine Band und Gäste... wenn sie sich trauen!\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/bohnjour.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tMittwochs | 20.15 Uhr | LIVE | #bohnjour\n\t\t\t\t"
+    }
+  },
+  {
+    "title": "Straight to Gold",
+    "description": "\n\t\t\t\tStraight to Gold\n\t\t\t\t\n\t\t\t\tJetzt wird es ernst! Simon und Budi wollen Gold. Sie holen das gute Starcraft II wieder raus und machen sich auf in die oberen Klassen. Dabei gibt es keine Kompromisse. Kein Platz für Schwäche und das einzige was zählt, ist der Sieg. Macht euch bereit auf gnadenlose Clicks-per-Minute und eine Reihe in der Sieg und Niederlage eng beieinander liegen.\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/straight2gold.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tMittwochs | 19.00 Uhr | LIVE | #straight2gold\n\t\t\t\t"
+    }
+  },
+  {
+    "title": "Retro Klub",
+    "description": "\n\t\t\t\tRetro Klub\n\t\t\t\tDer Retro Klub ist das Format der Pixelverliebten ewig gestrigen von Heute. Es geht um Nostagie im modernen Gewand. Spiele die aussehen wie von damals aber eben von heute sind. So präsentiert sich dann auch die Show konsequent im Retro Gewand. Das beginnt bei der Optik und zieht sich über Rubriken bis hin zur Interaktion mit den Zuschauern.\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/retroklub.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tDonnerstags | 19.00 Uhr | #retroklub\n\t\t\t\t"
+    }
+  },
+  {
+    "title": "Mate Knights",
+    "description": "\n\t\t\t\tMate Knights\n\t\t\t\t\t\n\t\t\t\tWillkommen bei Mate Knights, der Show bei der Freundschaften zu Bruch gehen. Moderiert von the, the only Dennis Richtarski. Herzblatt war so 1990 und nun bringen wir euch das ultimative Freundschaftsduell aus der Rocket Beans Redaktion. Eine Frage kann alles entscheiden und die Verlierer werden ewig den Spott der Kollegen durch die Redaktion tragen. Also ist eines schon mal sicher, eure Unterhaltung ist garantiert.\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/mateknights.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tSonntags | 20.15 Uhr | #mateknights\n\t\t\t\t"
+    }
+  },
+  {
+    "title": "After Dark",
+    "description": "\n\t\t\t\tAfter Dark\n\t\t\t\t\t\n\t\t\t\tAfter Dark ist die Kategorie zum Gruseln und Unwohl fühlen. Hier präsentieren wir euch zu später Stunde die Spiele, die irgendwie zu düster für den normalen Alltag sind. Wenn ihr also kein Hase seid, dann macht das Licht aus und genießt die dunklen Stunden des Tages.\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/afterdark.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tDienstags | 21.30 Uhr | LIVE | #afterdark\n\t\t\t\t"
+    }
+  },
+  {
+    "title": "Point & Chick",
+    "description": "\n\t\t\t\tPoint & Chick\n\t\t\t\t\t\n\t\t\t\tHier ist der Name Programm. Point & Click Adventures und weibliche Gamer-Power. Das Format mit Unterhaltungswert welches alle Klischees und Stereotypen hinter sich lässt. Wir suchen uns die buntesten und gleichzeitig Interessantesten Point & Click Spiele heraus und bringen euch 1A Unterhaltung fernab von Gendertheorie und Frauenquote.\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/pointandchick.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tMittwochs | 16.00 Uhr | LIVE | #pointnchick\n\t\t\t\t"
+    }
+  },
+  {
+    "title": "RB News",
+    "description": "\n\t\t\t\tRB News\n\t\t\t\t\t\n\t\t\t\tIhr wollt News, ihr kriegt News. In unserer allabendlichen Nachrichtensendung berichten euch Dennis R. und Johannes, was gerade aktuell ist. Hier bekommt ihr das Wichtigste des Tages und die neusten Trailer, verpackt in mundgerechte Häppchen.\n\n\t\t\t\t",
+    "thumb": "http://rocketbeans.tv/wp-content/themes/_srb-theme/img/shows/rbnews.png",
+    "meta": {
+      "info": "\n\t\t\t\t\tMontags bis Freitags | 20.00 Uhr | #rbnews\n\t\t\t\t"
+    }
+  }
+
+]
